@@ -3,6 +3,9 @@
 # The LQR-Schrödinger Bridge
 # Marc Lambert
 ##################################################################
+# Code supported by Marc Lambert, please cite the paper 
+# if you use this code.
+##################################################################
 import numpy as np
 import matplotlib.pyplot as plt
 import numpy.linalg as LA
